@@ -60,6 +60,9 @@ data = {
         'Git':1,
         'Vim':1,
         'Svn':2,
+        'RSpec':1,
+        'Selenium':1,
+        'RoR':1,
     },
 
     'Techniques': {
