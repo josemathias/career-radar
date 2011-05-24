@@ -45,3 +45,34 @@ data = {
     }
 };
 
+title = 'Jose Mathisa Gusso, May 2011';
+
+data = {
+    'Languages': {
+        'Java':2,
+        'Perl':1,
+        'Ruby':2,
+    },
+
+    'Tools': {
+        'Rake':1,
+        'Ant':1,
+        'Git':1,
+        'Vim':1,
+        'Svn':2,
+    },
+
+    'Techniques': {
+        'TDD': 1,
+        'BDD': 1,
+        'REST':1,
+        'DevOps':1,
+        'Refactoring':2,
+    },
+
+    'Platforms': {
+        'Linux':2,
+        'MacOS X':2,
+        'Windows':3,
+    }
+};
